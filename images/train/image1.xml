@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_images_shoe</folder>
+	<filename>image1.jpg</filename>
+	<path>D:/python_ai/test_images_shoe/image1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>man_shoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>65</ymin>
+			<xmax>468</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

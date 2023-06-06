@@ -1,0 +1,7 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+image1.jpg,480,320,man_shoe,18,65,468,280
+image2.jpg,800,600,man_run_shoe,15,38,776,531
+image3.jpg,225,225,man_hight_shoe,1,49,225,201
+image4.jpg,225,225,woman_hight_shoe,19,17,203,199
+image5.jpg,212,238,woman_shoe,14,106,197,194
+image6.jpg,600,600,woman_hight_shoe,36,237,568,580
